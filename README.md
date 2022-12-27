@@ -19,6 +19,7 @@
         <br>- Store the sum of Burst Time of all process in a variable and used loop 'while(time < sumOFBurstTime)'.
 
 # Ouput of RR for Different Arrival Time
-f11fe235381b.jpg)
+![diff RR](https://user-images.githubusercontent.com/91987110/209712838-e34931c2-83ee-406d-b7a9-8e54cca39ea2.jpg)
+
 # Ouput of RR for Same Arrival Time
 ![RR_SAME_AT](https://user-images.githubusercontent.com/91987110/209600828-07072bd2-7cb8-4dca-8b4d-11b6d4f3b914.jpg)

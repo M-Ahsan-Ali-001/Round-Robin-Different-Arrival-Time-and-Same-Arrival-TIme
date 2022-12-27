@@ -14,9 +14,9 @@
  
  
  - CALULCATED CT using formula :
-        - Push the process in Queue if it has remaining Time
-        - Pop the process from Queue if there a differnce between Arival Time of current process  and next process & when all the process are iterated ones then i started poping Queue elements one by one.
-        - Store the sum of Burst Time of all process in a variable and used loop 'while(time < sumOFBurstTime)'.
+        <br> Push the process in Queue if it has remaining Time
+        <br> Pop the process from Queue if there a differnce between Arival Time of current process  and next process & when all the process are iterated ones then i started poping Queue elements one by one.
+        <br> Store the sum of Burst Time of all process in a variable and used loop 'while(time < sumOFBurstTime)'.
 
 # Ouput of RR for Different Arrival Time
 f11fe235381b.jpg)

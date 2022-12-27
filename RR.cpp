@@ -2,12 +2,7 @@
 #include<queue>
 using namespace std;
 
-/*
-Submitted by :Muhammad Ahsan Ali
-REG #  200901072
-BSCS-01-B
-Submitted t0: Maam Reeda Saeed
-*/
+
 
 
 
@@ -163,7 +158,7 @@ void CAL_CT_DIFF_AT(int* burstTime, int* rem_burstTime, int* arivalTime, int tot
 void Print_DIFF_AT(int* BT, int* TAT, int* WT,int * AT, int totalProcess,int*CT)
 {
 	int i = 0;
-	cout << "\n\nPno\t" << "AT\t"<<"BT\t"<<"CT\t" << "WT\t" << "TAT" << endl;
+	cout << "\n\nPno\t" << "AT\t"<<"BT\t"<<"CT\t" << "TAT\t" << "WT" << endl;
 	while (i < totalProcess)
 	{
 		cout << i + 1 << "\t" <<AT[i] << "\t" << BT[i] << "\t"<<CT[i]<<"\t" << TAT[i] << "\t" << WT[i] << endl;

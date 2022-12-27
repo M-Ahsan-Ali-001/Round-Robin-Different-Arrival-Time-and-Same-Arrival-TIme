@@ -8,8 +8,8 @@
    ./a.out is used to excute c++ batch file.
  
  # Explanation
- - Dynamically Allocated 2D array is used to take input (BT & AT)
- - Separate 1D Dynamically Allocated  arrays are used for  CT , TAT , WT 
+ - Dynamically Allocated 1D array is used to take input (BT & AT) and ] for  CT , TAT , WT 
+ -rem_burst[] is an array storing the burst time but value will be decremented accordting to Burst Time
  - Queue used
  
  
